@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kamik1979
+- 👀 I’m interested in computer science and low level programming
+- 🌱 I’m currently mastering my C# skills
+- 💞️ I’m looking to collaborate on hobby operating systems
+- 📫 How to reach me: currently unreachable :)
